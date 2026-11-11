@@ -18,7 +18,7 @@ This project focuses on analyzing the Adventure Works dataset to generate meanin
 ## Excel Workbook
 The complete Excel workbook is hosted on Google Drive.
 
-[Access Adventure Works Excel Workbook](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Access Adventure Works Excel Workbook]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://docs.google.com/spreadsheets/d/1KDN79F3a7K2YGhN6QxuRsEnT7P3odD1c/edit?usp=sharing&ouid=114240954981625572530&rtpof=true&sd=true))
 
 ## Project Objective
 To explore business data, identify trends, analyze performance, and present actionable insights through data visualization and reporting.
